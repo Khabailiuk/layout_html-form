@@ -3,10 +3,10 @@
   margin-bottom: 10px;
 }
 
-fieldset {
-  margin-bottom: 20px;
+.form-field:last-child {
+  margin: 0;
 }
 
-label.form-field:last-child {
-  margin-bottom: 0;
+.fieldsetBlock {
+  margin-bottom: 20px;
 }
